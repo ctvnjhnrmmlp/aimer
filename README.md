@@ -10,4 +10,4 @@ Stay on top of your schedule by effortlessly tracking your time. The app helps y
 
 Fuel your motivation with a daily dose of generated inspirational quotes. Let the power of positivity drive you forward as you conquer your tasks and goals.
 
-Create and organize your todos with ease. EmpowerMe provides a clean and intuitive interface for managing your tasks, making it simple to prioritize and achieve your objectives.
+Create and organize your todos with ease. It provides a clean and intuitive interface for managing your tasks, making it simple to prioritize and achieve your objectives.
