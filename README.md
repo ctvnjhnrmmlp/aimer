@@ -110,5 +110,5 @@ This project is licensed under the [MIT License](LICENSE)
 ## Credits
 
 - Inspired by the need for mindful productivity
-- Built with ❤️ by ctvnjhnrmmlp
+- Built by John Rommel Octaviano
 - Powered by: React, Next.js, Zustand, and Vercel
